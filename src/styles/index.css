@@ -1,12 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
-/* 
+.bg-gray {
+    background-color: gray;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+.bg-blueishgray {
+    background-color: rgb(228, 237, 238);
+}
 
-*/
+.placeholder {
+    aspect-ratio: 500/325;
+}
