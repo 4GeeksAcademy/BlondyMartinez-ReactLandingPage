@@ -13,7 +13,7 @@ const Home = () => {
 	return (
 		<div>
 			<Header />
-			<div className="container-fluid">
+			<div className="container-fluid wrapper">
 				<Jumbotron />
 				<div className="row">
 					<div className="col-lg-8 col-md-10 col-sm-10 mx-auto my-3">
